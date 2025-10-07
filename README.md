@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - **style.css** – Modern and responsive styling.  
 - **script.js** – Interactive features and smooth animations.  
 
------
+-----  
 
 ## ⚡ Features
 
