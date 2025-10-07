@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my projects, skills, and professional journey as a web developer.
 
----
+----
 
 ## 🗂 Project Structure
 
